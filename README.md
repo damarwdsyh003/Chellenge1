@@ -1,0 +1,11 @@
+# Chellenge1
+KETENTUAN A
+![Alt Text](https://github.com/damarwdsyh003/Chellenge1/blob/master/Ketentuan%20A.png)
+KETENTUAN B
+![Alt Text](https://github.com/damarwdsyh003/Chellenge1/blob/master/Ketentuan%20B.png)
+KETENTUAN C
+![Alt Text](https://github.com/damarwdsyh003/Chellenge1/blob/master/Ketentuan%20C.png)
+KETENTUAN D
+![Alt Text](https://github.com/damarwdsyh003/Chellenge1/blob/master/Ketentuan%20D.png)
+KETENTUAN E
+![Alt Text](https://github.com/damarwdsyh003/Chellenge1/blob/master/Ketentuan%20E.png)
